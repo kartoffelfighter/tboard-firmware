@@ -12,3 +12,4 @@ lib
 test/*
 test
 .travis.yml
+make-release-hex.py
